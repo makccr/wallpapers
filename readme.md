@@ -4,6 +4,7 @@ This repository contains all of the Wallpapers that I regularly use on all of my
 ---
 
 My current favorite wallpaper, is a nice piece of art featuring Ang & Appa, from [Avatar: The Last Airbender](https://www.imdb.com/title/tt0417299/): 
+
 ![]( http://hdqwalls.com/wallpapers/avatar-the-last-airbender-an.jpg)
 
 ## Organization
@@ -21,3 +22,6 @@ I also have split up the images into a few sub-categories, again, just to make f
 All of these images use the JPG format, spelled as ``.jpg``, not ``.jpeg`` for consistency. This is just to save on the file size. I find that I don't usually notice the difference between a JPG and a PNG or other higher quality image format (in the context of a wallpaper), and JPG files have significantly smaller file size; so I hope you see what I'm getting at. 
 
 All of the wallpapers also have a minimum resolution of 1080p; and I'm slowly replacing the lower resolution wallpapers with 4K equivalents, or removing them entirely. But, for the time being, if you're using a display with a resolution higher than 1080p or so; you might be careful just picking any image at random. 
+
+## Format
+It also may be relevant to note that this library includes wallpapers intended for use on mobile (portrait) & desktop (landscape) layouts. These images aren't organized in any specific way, but the largest majority of images should also be of a high enough resolution that they can be used with either type of layout without any noticeable degradation. 
