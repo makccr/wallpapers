@@ -14,8 +14,11 @@ I also have split up the images into a few sub-categories, again, just to make f
 
 1. **General**: The largest bulk of the wallpapers, almost everything lives here. 
 2. **Artwork**: A collection of paintings that I like to use as wallpapers, but only on occasion. They have their own directory, because I don't want them cluttering up my main folder, and I don't apply any kind of naming convention to the images. All these images simply use the title of the painting as the filename. 
+
 3. **Media**: This is where I keep any wallpapers that relate to a video game, or a book, or a movie, or something of that sort. It's a lot of concept art and well timed screenshots. I've just found that I don't always want these style of wallpapers to be in use, so they get their own category. 
+
 4. **Nouns**: Originally I created this category for pictures of people that I found interesting, mainly Audrey Hepburn & Buddha. However, I've since expanded the category to include animals and a few other things, so it's just called nouns. Anything that is a *noun* get's filed here. 
+
 5. **Tech**: I've added a fifth category for "tech" wallpapers. These are mostly some past and current default wallpapers from Windows and OSX releases; but this also includes a set of "retro tech wallpapers" that I designed a while back. You can view and access just those images [here](https://photos.google.com/share/AF1QipNcKt7p6gWWk5sHYwj9SuhOHTliwypGEO-CfQCr5y4eI1qesRrH3wFOyIaQ871pGg?key=T1RSejMzUk9yUzBGaEx6LVduSmNNRW8wVnAyb2Rn) 
 
 ## Tech Specs
