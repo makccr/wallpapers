@@ -2,9 +2,9 @@
 This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
 
 ---
-My current favorite wallpaper is some really nice monochromatic artwork of the Imperial Walkers created for The Ultimate Edition of [Star Wars: Battlefront](https://www.amazon.com/Star-Wars-Battlefront-Ultimate-PlayStation-4/dp/B01M2YWAUQ?th=1). I've never actually played the game, but this artwork looks absolutely beautiful. 
+My current favorite wallpaper is this *synth-wave horizon cyberpunk* type thing. It's a cool piece of artwork, I don't know who made it, but it's dope. 
 
-![Imperial Walkers Monochromatic](https://raw.githubusercontent.com/makccr/wallpapers/master/media/star-wars-robot-walker-thing-i-forgot-what-its-called-please-dont-hate-me.jpg)
+![Synthwave Horizon](https://raw.githubusercontent.com/makccr/wallpapers/master/cyberpunk/synthwave.jpg)
 
 ## Organization
 I've spent a bit of time trying to make sure that all of my wallpapers were organized well; mostly just because, as the library has grown very large, it's become increasingly difficult to find what I'm looking for. All of the wallpapers use a fairly simple naming scheme that looks something like this: ``generalCategory-more-specific-descriptor.jpg`` . For example: ``abstract-a.jpg`` or ``lotr-minas-tirith.jpg``. I've found that sort of *tagging* images with a general category, by using the category as a prefix in names makes the process of finding an image quite a bit easier. Displaying the images in a simple grid will have similar images grouped together, and makes the library much easier to browse casually, or with a specific intention. 
@@ -20,6 +20,8 @@ I also have split up the images into a few sub-categories, again, just to make f
 4. **Nouns**: Originally I created this category for pictures of people that I found interesting, mainly Audrey Hepburn & Buddha. However, I've since expanded the category to include animals and a few other things, so it's just called nouns. Anything that is a *noun* get's filed here. 
 
 5. **Tech**: I've added a fifth category for "tech" wallpapers. These are mostly some past and current default wallpapers from Windows and OSX releases; but this also includes a set of "retro tech wallpapers" that I designed a while back. You can view and access just those images [here](https://photos.google.com/share/AF1QipNcKt7p6gWWk5sHYwj9SuhOHTliwypGEO-CfQCr5y4eI1qesRrH3wFOyIaQ871pGg?key=T1RSejMzUk9yUzBGaEx6LVduSmNNRW8wVnAyb2Rn) 
+
+6. **Cyberpunk**: I have a new category for some cyberpunk style wallpapers. It's pretty self-explanatory. 
 
 ## Tech Specs
 All of these images use the JPG format, spelled as ``.jpg``, not ``.jpeg`` for consistency. This is just to save on the file size. I find that I don't usually notice the difference between a JPG and a PNG or other higher quality image format (in the context of a wallpaper), and JPG files have significantly smaller file size; so I hope you see what I'm getting at. 
