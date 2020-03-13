@@ -23,6 +23,8 @@ I also have split up the images into a few sub-categories, again, just to make f
 
 6. **Cyberpunk**: I have a new category for some cyberpunk style wallpapers. It's pretty self-explanatory. 
 
+7. **Places**: There is a another new category now: Places. It's images of nice places in the world, or landmarks, or anything of that sort. There are some really great shots in here. 
+
 ## Tech Specs
 All of these images use the JPG format, spelled as ``.jpg``, not ``.jpeg`` for consistency. This is just to save on the file size. I find that I don't usually notice the difference between a JPG and a PNG or other higher quality image format (in the context of a wallpaper), and JPG files have significantly smaller file size; so I hope you see what I'm getting at. 
 
