@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 ![Header SVG](https://makccr.github.io/images/github-header.svg)
 
 This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
-=======
-# Wallpapers
->>>>>>> a9fe49422301d8e415954f6115b2af4892f805b8
 
 My current favorite wallpaper is picture of some hairy penguins at a cult meeting. 
-
 ![Hairy Penguin Cult](https://raw.githubusercontent.com/makccr/wallpapers/master/nouns/hairy-penguins-2.jpg)
 
 ## Organization
