@@ -1,4 +1,5 @@
-# Wallpapers
+![Header SVG](https://makccr.github.io/images/github-header.svg)
+
 This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
 
 ---
@@ -32,3 +33,10 @@ All of the wallpapers also have a minimum resolution of 1080p; and I'm slowly re
 
 ## Devices
 It also may be relevant to note that this library includes wallpapers intended for use on mobile (portrait) & desktop (landscape) layouts. These images aren't organized in any specific way, but the largest majority of images should also be of a high enough resolution that they can be used with either type of layout without any noticeable degradation. That being said, I do primarily work on a desktop or a laptop; so the majority of the images are collected with that in mind. There are some images that were collected specifically for use on a phone, and are in the proper orientation, but those are few and far between. This is a collection of images for use primarily on old school, you know... computers. 
+
+# Attribution
+###### Work in Progress
+This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, if I feature it in a video or something; so I needed a spot to chart out all of the various links and artists names. 
+
+## Artwork
+
