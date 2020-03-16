@@ -3,6 +3,7 @@
 This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
 
 My current favorite wallpaper is picture of some hairy penguins at a cult meeting. 
+
 ![Hairy Penguin Cult](https://raw.githubusercontent.com/makccr/wallpapers/master/nouns/hairy-penguins-2.jpg)
 
 ## Organization
@@ -37,4 +38,73 @@ It also may be relevant to note that this library includes wallpapers intended f
 This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, if I feature it in a video or something; so I needed a spot to chart out all of the various links and artists names. 
 
 ## Artwork
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Bridal Procession on the Hardangerfjord](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | Hans Gude & Adolph Tidemand
+[Christina's World](https://www.moma.org/collection/works/78455) | Andrew Wyeth
+[Echo and Narcissus](https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg) | John William Waterhouse
+[Entry of the Crusaders in Constantinople](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | Eugène Delacroix
+[Evening](https://upload.wikimedia.org/wikipedia/commons/0/0e/CasparDavidFriedrich_Der_Abend.jpg) | Caspar David Friedrich 
+highland-loch.jpg
+hylas-and-the-nymphs.jpg
+la-miennas.jpg
+lady-of-shallot.jpg
+liberty-leading-the-people.jpg
+lonely-tree.jpg
+medusas-raft.jpg
+meisje-met-de-parel.jpg
+mondaufgang-über-dem-meer.jpg
+monk-by-the-sea.jpg
+moonrise-over-the-sea.jpg
+mountains-river-landscape.jpg
+napolena-crossing-the-alps.jpg
+night-watch.jpg
+nighthawk.jpg
+nightmare.jpg
+orphan-girl-in-a-cemetary.jpg
+oxbow.jpg
+parasol.jpg
+sea-of-ice.jpg
+second-of-may-1808.jpg
+spring.jpg
+stages-of-life.jpg
+storm-on-the-lake-of-galilee.jpg
+swans-amoung-the-redds-at-the-firt-morgenro.jpg
+the-kiss.jpg
+the-ladies-waldegrave.jpg
+the-oath-of-horaces.jpg
+the-watzmann.jpg
+wanderer-above-the-sea-of-fog.jpg
+washington-crossing-the-deleware.jpg
+watson-and-the-shark.jpg
 
+## Cyberpunk
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+
+## General
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+
+## Media
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+
+## Nouns
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+
+## Places
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+
+## Tech
+Name of Photo (I made one up if none were provided) | Artist
+--------------------------------------------------- | -------
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
