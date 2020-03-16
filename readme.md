@@ -46,65 +46,66 @@ Name of Photo (I made one up if none were provided) | Artist
 [Echo and Narcissus](https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg) | John William Waterhouse
 [Entry of the Crusaders in Constantinople](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | Eugène Delacroix
 [Evening](https://upload.wikimedia.org/wikipedia/commons/0/0e/CasparDavidFriedrich_Der_Abend.jpg) | Caspar David Friedrich 
-highland-loch.jpg
-hylas-and-the-nymphs.jpg
-la-miennas.jpg
-lady-of-shallot.jpg
-liberty-leading-the-people.jpg
-lonely-tree.jpg
-medusas-raft.jpg
-meisje-met-de-parel.jpg
-mondaufgang-über-dem-meer.jpg
-monk-by-the-sea.jpg
-moonrise-over-the-sea.jpg
-mountains-river-landscape.jpg
-napolena-crossing-the-alps.jpg
-night-watch.jpg
-nighthawk.jpg
-nightmare.jpg
-orphan-girl-in-a-cemetary.jpg
-oxbow.jpg
-parasol.jpg
-sea-of-ice.jpg
-second-of-may-1808.jpg
-spring.jpg
-stages-of-life.jpg
-storm-on-the-lake-of-galilee.jpg
-swans-amoung-the-redds-at-the-firt-morgenro.jpg
-the-kiss.jpg
-the-ladies-waldegrave.jpg
-the-oath-of-horaces.jpg
-the-watzmann.jpg
-wanderer-above-the-sea-of-fog.jpg
-washington-crossing-the-deleware.jpg
-watson-and-the-shark.jpg
+[Highland Loch](https://upload.wikimedia.org/wikipedia/commons/b/b3/Nasmyth_Alexander_Highland_Loch.jpg) | Alexander Nasmyth
+[Hylas and the Nymphs](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg) | John William Waterhouse
+[Las Meninas](https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg) | Diego Velázquez
+[The Lady of Shalott (Waterhouse)](https://upload.wikimedia.org/wikipedia/commons/f/fd/John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg) | John William Waterhouse
+[The Lady of Shalott (Grimshaw)](https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Atkinson_Grimshaw_-_%22The_Lady_of_Shalott%22_-_Google_Art_Project.jpg) | John Atkinson Grimshaw
+[La Liberté guidant le peuple](https://upload.wikimedia.org/wikipedia/commons/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg) | Eugène Delacroix
+[The Lonely Tree](https://upload.wikimedia.org/wikipedia/commons/f/f0/Caspar_David_Friedrich_-_Der_einsame_Baum_-_Google_Art_Project.jpg) | Caspar David Friedrich
+[The Raft of the Medusa](https://upload.wikimedia.org/wikipedia/commons/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg) | Théodore Géricault
+[Meisje met de parel](https://upload.wikimedia.org/wikipedia/commons/d/d7/Meisje_met_de_parel.jpg) | Johannes Vermeer
+[Mondaufgang am Meer](https://upload.wikimedia.org/wikipedia/commons/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg) | Caspar David Friedrich
+[The Monk by the Sea](https://upload.wikimedia.org/wikipedia/commons/2/21/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg) | Caspar David Friedrich
+[Moonrise by the Sea](https://upload.wikimedia.org/wikipedia/commons/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg) | Caspar David Friedrich
+[Mountainous River Landscape](https://upload.wikimedia.org/wikipedia/commons/9/96/Mountainous_River_Landscape_%28Night_Version%29.jpg) | Caspar David Friedrich
+[Napoleon Crossing the Alps](https://upload.wikimedia.org/wikipedia/commons/f/fd/David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg) | Jacques-Louis David
+[The Night Watch](https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg) | Rembrandt van Rijn
+[Nighthawks](https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg) | Edward Hopper
+[The Nightmare](https://upload.wikimedia.org/wikipedia/commons/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG) | Henry Fuseli
+[Orphan Girl at the Cemetery](https://upload.wikimedia.org/wikipedia/commons/3/37/Eug%C3%A8ne_Delacroix_-_Jeune_orpheline_au_cimeti%C3%A8re_%28vers_1824%29.JPG) | Eugène Delacroix
+[The Oxbow](https://upload.wikimedia.org/wikipedia/commons/b/b1/Cole_Thomas_The_Oxbow_%28The_Connecticut_River_near_Northampton_1836%29.jpg) | Thomas Cole
+[The Parasol](https://upload.wikimedia.org/wikipedia/commons/d/d5/El_Quitasol_%28Goya%29.jpg) | Goya
+[The Sea of Ice](https://upload.wikimedia.org/wikipedia/commons/0/0c/Caspar_David_Friedrich_-_Das_Eismeer_-_Hamburger_Kunsthalle_-_02.jpg) | Caspar David Friedrich
+[The Second of May 1808 (The Charge of the Mamelukes)](https://upload.wikimedia.org/wikipedia/commons/7/76/El_dos_de_mayo_de_1808_en_Madrid.jpg) | Francisco Goya
+[Spring](https://upload.wikimedia.org/wikipedia/commons/a/ab/William_McTaggart_-_Spring_-_Google_Art_Project.jpg) | William McTaggart
+[The Stages of Life](https://upload.wikimedia.org/wikipedia/commons/5/5c/Caspar_David_Friedrich_013.jpg) | Caspar David Friedrich
+[The Storm on the Sea of Galilee](https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg) | Rembrandt van Rijn
+[Swans among the reeds at the first Morgenro](https://www.wikiart.org/en/caspar-david-friedrich/wans-among-the-reeds-at-the-first-morgenro) | Caspar David Friedrich
+[The Kiss](https://upload.wikimedia.org/wikipedia/commons/c/c6/El_Beso_%28Pinacoteca_de_Brera%2C_Mil%C3%A1n%2C_1859%29.jpg) | Francesco Hayez
+[The Ladies Waldegrave](https://upload.wikimedia.org/wikipedia/commons/f/f7/Sir_Joshua_Reynolds_-_The_Ladies_Waldegrave_-_Google_Art_Project.jpg) | Joshua Reynolds
+[Oath of the Horatii](https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg) | Jacques-Louis David
+[The Watzmann](https://upload.wikimedia.org/wikipedia/commons/b/bc/Caspar_David_Friedrich_012.jpg) | Caspar David Friedrich
+[Wanderer above the Sea of Fog](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg) | Caspar David Friedrich
+[Washington Crossing the Delaware](https://upload.wikimedia.org/wikipedia/commons/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg) | Emanuel Leutze
+[Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
 
 ## Cyberpunk
 Name of Photo (I made one up if none were provided) | Artist
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Title](#) | Name
 
 ## General
 Name of Photo (I made one up if none were provided) | Artist
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Title](#) | Name
 
 ## Media
 Name of Photo (I made one up if none were provided) | Artist
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Title](#) | Name
 
 ## Nouns
 Name of Photo (I made one up if none were provided) | Artist
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Title](#) | Name
 
 ## Places
 Name of Photo (I made one up if none were provided) | Artist
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Title](#) | Name
 
 ## Tech
 Name of Photo (I made one up if none were provided) | Artist
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
+[Title](#) | Name
