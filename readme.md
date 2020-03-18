@@ -38,7 +38,7 @@ It also may be relevant to note that this library includes wallpapers intended f
 This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, if I feature it in a video or something; so I needed a spot to chart out all of the various links and artists names. 
 
 ## Artwork
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
 [Bridal Procession on the Hardangerfjord](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | Hans Gude & Adolph Tidemand
@@ -81,31 +81,31 @@ Name of Photo (I made one up if none were provided) | Artist
 [Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
 
 ## Cyberpunk
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [Title](#) | Name
 
 ## General
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [Title](#) | Name
 
 ## Media
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [Title](#) | Name
 
 ## Nouns
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [Title](#) | Name
 
 ## Places
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [Title](#) | Name
 
 ## Tech
-Name of Photo (I made one up if none were provided) | Artist
+Title | Author
 --------------------------------------------------- | -------
 [Title](#) | Name
