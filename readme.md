@@ -39,7 +39,7 @@ It also may be relevant to note that this library includes wallpapers intended f
 This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, click on the title of an image, to be taken to the original source location. 
 
 ## Artwork
- | |  
+word | word |  word
  --- | ---- | ----
 [The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/barque-of-dante.jpg) | [Bridal Procession on the Hardangerfjord](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | Hans Gude & Adolph Tidemand ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/bridal-procession-on-the-hardangerfjord.jpg) | [Christina's World](https://www.moma.org/collection/works/78455) | Andrew Wyeth ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/christianas-world.jpg)
 
@@ -85,7 +85,7 @@ Title | Author
 [Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
 
 ## Cyberpunk
-Word | Word | Word 
+   |     |       
 --- | ------ | -------
 [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF) | [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF) | [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF)
 
