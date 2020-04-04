@@ -2,14 +2,16 @@
 
 This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
 
-My current favorite wallpaper is picture of some hairy penguins at a cult meeting. 
+My current favorite wallpaper is picture of some hairy penguins at a cult meeting:
 
 ![Hairy Penguin Cult](https://raw.githubusercontent.com/makccr/wallpapers/master/nouns/hairy-penguins-2.jpg)
 
 ## Organization
 I've spent a bit of time trying to make sure that all of my wallpapers were organized well; mostly just because, as the library has grown very large, it's become increasingly difficult to find what I'm looking for. All of the wallpapers use a fairly simple naming scheme that looks something like this: ``generalCategory-more-specific-descriptor.jpg`` . For example: ``abstract-a.jpg`` or ``lotr-minas-tirith.jpg``. I've found that sort of *tagging* images with a general category, by using the category as a prefix in names makes the process of finding an image quite a bit easier. Displaying the images in a simple grid will have similar images grouped together, and makes the library much easier to browse casually, or with a specific intention. 
 
-I also have split up the images into a few sub-categories, again, just to make finding a specific image easier. I don't want to create a ton of different folders, because then I'll have to end up playing a guessing game just to makes sure that I'm in the right folder, before I can look for an image. The naming system that I just laid out works really well for browsing the library, so most of the images live in the ``general`` folder. The extra directories only exist to narrow down very specific categories of wallpapers: 
+Originally the wallpapers were sorted into different folders, to try and make browsing easier; and it did. The problem I ran into is that as I added more categories for wallpapers, the folders were less helpful. I was having to add multiple directories to any type of wallpaper manager; and if I ever wanted to just randomly select a wallpaper from my collection; I basically couldn't. So I've kept the category denotation, I just do it as a prefix on the filenames. The images end up still being sorted by category, rather than just alphabet, or any other useless criteria; but I also get to access the wallpapers much more easily. 
+
+That being said, the categories for my wallpapers, are: 
 
 1. **General**: The largest bulk of the wallpapers, almost everything lives here. 
 
@@ -34,14 +36,17 @@ All of the wallpapers also have a minimum resolution of 1080p; and I'm slowly re
 It also may be relevant to note that this library includes wallpapers intended for use on mobile (portrait) & desktop (landscape) layouts. These images aren't organized in any specific way, but the largest majority of images should also be of a high enough resolution that they can be used with either type of layout without any noticeable degradation. That being said, I do primarily work on a desktop or a laptop; so the majority of the images are collected with that in mind. There are some images that were collected specifically for use on a phone, and are in the proper orientation, but those are few and far between. This is a collection of images for use primarily on old school, you know... computers. 
 
 # Attribution
-This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, if I feature it in a video or something; so I needed a spot to chart out all of the various links and artists names.
+This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, click on the title of an image, to be taken to the original source location. 
 
 ## Artwork
+ | |  
+ --- | ---- | ----
+[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/barque-of-dante.jpg) | [Bridal Procession on the Hardangerfjord](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | Hans Gude & Adolph Tidemand ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/bridal-procession-on-the-hardangerfjord.jpg) | [Christina's World](https://www.moma.org/collection/works/78455) | Andrew Wyeth ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/christianas-world.jpg)
+
+
+
 Title | Author
 --------------------------------------------------- | -------
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix
-[Bridal Procession on the Hardangerfjord](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | Hans Gude & Adolph Tidemand
-[Christina's World](https://www.moma.org/collection/works/78455) | Andrew Wyeth
 [Echo and Narcissus](https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg) | John William Waterhouse
 [Entry of the Crusaders in Constantinople](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | Eugène Delacroix
 [Evening](https://upload.wikimedia.org/wikipedia/commons/0/0e/CasparDavidFriedrich_Der_Abend.jpg) | Caspar David Friedrich
