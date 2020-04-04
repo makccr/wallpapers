@@ -85,10 +85,9 @@ Title | Author
 [Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
 
 ## Cyberpunk
-   |     |       
+I had to add | words here or it | wouldn't work
 --- | ------ | -------
-[![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF) | [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF) | [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF)
-
+[![Cyberpunk Building (B&W)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://i.redd.it/jfh2j0pw2at21.png)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://wallpaperaccess.com/full/1115095.jpg)](https://wallpaperaccess.com/full/1115095.jpg) 
 
 Title | Author
 --------------------------------------------------- | -------
