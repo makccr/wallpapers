@@ -85,18 +85,10 @@ Title | Author
 [Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
 
 ## Cyberpunk
-I had to add | words here or it | wouldn't work
+• | • | • 
 --- | ------ | -------
-[![Cyberpunk Building (B&W)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://i.redd.it/jfh2j0pw2at21.png)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://wallpaperaccess.com/full/1115095.jpg)](https://wallpaperaccess.com/full/1115095.jpg) 
-
-Title | Author
---------------------------------------------------- | -------
-[Cyberpunk Building (B&W)](https://www.pexels.com/de-de/foto/altes-gebaude-architektur-drinnen-fabrik-416326/) | Pixabay
-[iRON](https://i.redd.it/jfh2j0pw2at21.png) | Kuldar Leement
-[Outrun Synthwave](https://wallpaperaccess.com/full/1115095.jpg) | Unknown
-[Ангелы (Valkyrie)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | НИНЭЛЬ
-[Cyberpunk Backalley](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlYjE3NmFhLTViODMtNGMyYS04MjNhLWU3MmI3ZTYxMzBmMlwvZGNiZG02ai05MzM5NTQyYy1iMmYzLTQ4M2MtOWRkNC00Yzk1NzgwOThiZGEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HGl_PMojM2HvmESSDIeUtiqyIsuNVSapkPX4SC1AVqI) | BoldCat
-[Sparks](https://www.flickr.com/photos/gheckels/17074700519) | Graeme Heckels
+[![Cyberpunk Building B&W](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
+[![Ангелы](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-valkyrie.jpg)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | [![Cyberpunk Backalley](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-vee-alleyway.jpg)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg) | [![Sparks](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-welding.jpg)](https://www.flickr.com/photos/gheckels/17074700519)
 
 ## General
 Title | Author
