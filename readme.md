@@ -85,6 +85,11 @@ Title | Author
 [Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
 
 ## Cyberpunk
+Word | Word | Word 
+--- | ------ | -------
+[![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF) | [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF) | [![Let's Code Series](https://img.youtube.com/vi/avjB5rQMm24/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLIYVhRocqRoT6yvieIyNehUz6VnB6hXhF)
+
+
 Title | Author
 --------------------------------------------------- | -------
 [Cyberpunk Building (B&W)](https://www.pexels.com/de-de/foto/altes-gebaude-architektur-drinnen-fabrik-416326/) | Pixabay
