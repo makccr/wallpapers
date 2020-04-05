@@ -4,7 +4,7 @@ This repository contains all of the Wallpapers that I regularly use on all of my
 
 My current favorite wallpaper is picture of some hairy penguins at a cult meeting:
 
-![Hairy Penguin Cult](https://raw.githubusercontent.com/makccr/wallpapers/master/NOUNS-hairy-penguins-2.jpg)
+![Hairy Penguin Cult](https://raw.githubusercontent.com/makccr/wallpapers/master/backgrounds/NOUNS-hairy-penguins-2.jpg)
 
 ## Organization
 I've spent a bit of time trying to make sure that all of my wallpapers were organized well; mostly just because, as the library has grown very large, it's become increasingly difficult to find what I'm looking for. All of the wallpapers use a fairly simple naming scheme that looks something like this: ``generalCategory-more-specific-descriptor.jpg`` . For example: ``abstract-a.jpg`` or ``lotr-minas-tirith.jpg``. I've found that sort of *tagging* images with a general category, by using the category as a prefix in names makes the process of finding an image quite a bit easier. Displaying the images in a simple grid will have similar images grouped together, and makes the library much easier to browse casually, or with a specific intention. 
@@ -39,75 +39,54 @@ It also may be relevant to note that this library includes wallpapers intended f
 This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, click on the title of an image, to be taken to the original source location. 
 
 ## Artwork
-Title | Author
---------------------------------------------------- | -------
-[Echo and Narcissus](https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg) | John William Waterhouse
-[Entry of the Crusaders in Constantinople](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | Eugène Delacroix
-[Evening](https://upload.wikimedia.org/wikipedia/commons/0/0e/CasparDavidFriedrich_Der_Abend.jpg) | Caspar David Friedrich
-[Highland Loch](https://upload.wikimedia.org/wikipedia/commons/b/b3/Nasmyth_Alexander_Highland_Loch.jpg) | Alexander Nasmyth
-[Hylas and the Nymphs](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg) | John William Waterhouse
-[Las Meninas](https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg) | Diego Velázquez
-[The Lady of Shalott (Waterhouse)](https://upload.wikimedia.org/wikipedia/commons/f/fd/John_William_Waterhouse_-_The_Lady_of_Shalott_-_Google_Art_Project_edit.jpg) | John William Waterhouse
-[The Lady of Shalott (Grimshaw)](https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Atkinson_Grimshaw_-_%22The_Lady_of_Shalott%22_-_Google_Art_Project.jpg) | John Atkinson Grimshaw
-[La Liberté guidant le peuple](https://upload.wikimedia.org/wikipedia/commons/5/5d/Eug%C3%A8ne_Delacroix_-_Le_28_Juillet._La_Libert%C3%A9_guidant_le_peuple.jpg) | Eugène Delacroix
-[The Lonely Tree](https://upload.wikimedia.org/wikipedia/commons/f/f0/Caspar_David_Friedrich_-_Der_einsame_Baum_-_Google_Art_Project.jpg) | Caspar David Friedrich
-[The Raft of the Medusa](https://upload.wikimedia.org/wikipedia/commons/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg) | Théodore Géricault
-[Meisje met de parel](https://upload.wikimedia.org/wikipedia/commons/d/d7/Meisje_met_de_parel.jpg) | Johannes Vermeer
-[Mondaufgang am Meer](https://upload.wikimedia.org/wikipedia/commons/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg) | Caspar David Friedrich
-[The Monk by the Sea](https://upload.wikimedia.org/wikipedia/commons/2/21/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg) | Caspar David Friedrich
-[Moonrise by the Sea](https://upload.wikimedia.org/wikipedia/commons/0/01/Caspar_David_Friedrich_-_Mondaufgang_am_Meer_-_Google_Art_Project.jpg) | Caspar David Friedrich
-[Mountainous River Landscape](https://upload.wikimedia.org/wikipedia/commons/9/96/Mountainous_River_Landscape_%28Night_Version%29.jpg) | Caspar David Friedrich
-[Napoleon Crossing the Alps](https://upload.wikimedia.org/wikipedia/commons/f/fd/David_-_Napoleon_crossing_the_Alps_-_Malmaison2.jpg) | Jacques-Louis David
-[The Night Watch](https://upload.wikimedia.org/wikipedia/commons/3/3a/La_ronda_de_noche%2C_por_Rembrandt_van_Rijn.jpg) | Rembrandt van Rijn
-[Nighthawks](https://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg) | Edward Hopper
-[The Nightmare](https://upload.wikimedia.org/wikipedia/commons/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG) | Henry Fuseli
-[Orphan Girl at the Cemetery](https://upload.wikimedia.org/wikipedia/commons/3/37/Eug%C3%A8ne_Delacroix_-_Jeune_orpheline_au_cimeti%C3%A8re_%28vers_1824%29.JPG) | Eugène Delacroix
-[The Oxbow](https://upload.wikimedia.org/wikipedia/commons/b/b1/Cole_Thomas_The_Oxbow_%28The_Connecticut_River_near_Northampton_1836%29.jpg) | Thomas Cole
-[The Parasol](https://upload.wikimedia.org/wikipedia/commons/d/d5/El_Quitasol_%28Goya%29.jpg) | Goya
-[The Sea of Ice](https://upload.wikimedia.org/wikipedia/commons/0/0c/Caspar_David_Friedrich_-_Das_Eismeer_-_Hamburger_Kunsthalle_-_02.jpg) | Caspar David Friedrich
-[The Second of May 1808 (The Charge of the Mamelukes)](https://upload.wikimedia.org/wikipedia/commons/7/76/El_dos_de_mayo_de_1808_en_Madrid.jpg) | Francisco Goya
-[Spring](https://upload.wikimedia.org/wikipedia/commons/a/ab/William_McTaggart_-_Spring_-_Google_Art_Project.jpg) | William McTaggart
-[The Stages of Life](https://upload.wikimedia.org/wikipedia/commons/5/5c/Caspar_David_Friedrich_013.jpg) | Caspar David Friedrich
-[The Storm on the Sea of Galilee](https://upload.wikimedia.org/wikipedia/commons/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg) | Rembrandt van Rijn
-[Swans among the reeds at the first Morgenro](https://www.wikiart.org/en/caspar-david-friedrich/wans-among-the-reeds-at-the-first-morgenro) | Caspar David Friedrich
-[The Kiss](https://upload.wikimedia.org/wikipedia/commons/c/c6/El_Beso_%28Pinacoteca_de_Brera%2C_Mil%C3%A1n%2C_1859%29.jpg) | Francesco Hayez
-[The Ladies Waldegrave](https://upload.wikimedia.org/wikipedia/commons/f/f7/Sir_Joshua_Reynolds_-_The_Ladies_Waldegrave_-_Google_Art_Project.jpg) | Joshua Reynolds
-[Oath of the Horatii](https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg) | Jacques-Louis David
-[The Watzmann](https://upload.wikimedia.org/wikipedia/commons/b/bc/Caspar_David_Friedrich_012.jpg) | Caspar David Friedrich
-[Wanderer above the Sea of Fog](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg) | Caspar David Friedrich
-[Washington Crossing the Delaware](https://upload.wikimedia.org/wikipedia/commons/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg) | Emanuel Leutze
-[Watson and the Shark](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg) | John Singleton Copley
+###### Click photo for link to original source (where I found it at least)
+• | • | •
+ :-: | :-: |
+The Barque of Dante - **Eugène Delacroix** | Bridal Procession on the Hardangerfjord - **Hans Gude & Adolph Tidemand** | Christina's World - **Andrew Wyeth** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-barque-of-dante.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-bridal-procession-on-the-hardangerfjord.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-christianas-world.jpg)](https://www.moma.org/collection/works/78455)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
+TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** |
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/THUMB)](LINK)
 
 ## Cyberpunk
 ###### Click photo for link to original source (where I found it at least)
 • | • | • 
 :-: | :-: | :-:
 Cyberpunk Building (B&W) - **Pixabay** | iRON - **Kuldar Leement** | Outrun Synthwave - **Unknown**
-[![Cyberpunk Building B&W](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
+[![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
 Ангелы (Valkyrie) - **НИНЭЛЬ** | Cyberpunk Backalley - **BoldCat** | Sparks - **Graeme Heckels**
 [![Ангелы](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-valkyrie.jpg)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | [![Cyberpunk Backalley](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-vee-alleyway.jpg)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg) | [![Sparks](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-welding.jpg)](https://www.flickr.com/photos/gheckels/17074700519)
 
 ## General
-Title | Author
---------------------------------------------------- | -------
-[Title](#) | Name
+###### Click photo for link to original source (where I found it at least)
 
 ## Media
-Title | Author
---------------------------------------------------- | -------
-[Title](#) | Name
+###### Click photo for link to original source (where I found it at least)
 
 ## Nouns
-Title | Author
---------------------------------------------------- | -------
-[Title](#) | Name
+###### Click photo for link to original source (where I found it at least)
 
 ## Places
-Title | Author
---------------------------------------------------- | -------
-[Title](#) | Name
+###### Click photo for link to original source (where I found it at least)
 
 ## Tech
-Title | Author
---------------------------------------------------- | -------
-[Title](#) | Name
+###### Click photo for link to original source (where I found it at least)
