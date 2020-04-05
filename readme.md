@@ -41,7 +41,7 @@ This is mostly for my own use, I like to be able to link back to the source for 
 ## Artwork
 ###### Click photo for link to original source (where I found it at least)
 • | • | •
- :-: | :-:
+ :-: | :-: | :-:
 The Barque of Dante - **Eugène Delacroix** | Bridal Procession on the Hardangerfjord - **Hans Gude & Adolph Tidemand** | Christina's World - **Andrew Wyeth** 
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-barque-of-dante.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-bridal-procession-on-the-hardangerfjord.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-christianas-world.jpg)](https://www.moma.org/collection/works/78455)
 TITLE - **AUTHOR** | TITLE - **AUTHOR** | TITLE - **AUTHOR** 
