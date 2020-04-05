@@ -39,12 +39,6 @@ It also may be relevant to note that this library includes wallpapers intended f
 This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, click on the title of an image, to be taken to the original source location. 
 
 ## Artwork
-word | word |  word
- --- | ---- | ----
-[The Barque of Dante](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | Eugène Delacroix ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/barque-of-dante.jpg) | [Bridal Procession on the Hardangerfjord](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | Hans Gude & Adolph Tidemand ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/bridal-procession-on-the-hardangerfjord.jpg) | [Christina's World](https://www.moma.org/collection/works/78455) | Andrew Wyeth ![](https://raw.githubusercontent.com/makccr/wallpapers/master/artwork/christianas-world.jpg)
-
-
-
 Title | Author
 --------------------------------------------------- | -------
 [Echo and Narcissus](https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg) | John William Waterhouse
@@ -87,7 +81,9 @@ Title | Author
 ## Cyberpunk
 • | • | • 
 --- | ------ | -------
+Cyberpunk Building (B&W) **Pixabay** | iRON **Kuldar Leement** | Outrun Synthwave **Unknown**
 [![Cyberpunk Building B&W](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
+Ангелы (Valkyrie) **НИНЭЛЬ** | Cyberpunk Backalley **BoldCat** | Sparks **Graeme Heckels**
 [![Ангелы](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-valkyrie.jpg)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | [![Cyberpunk Backalley](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-vee-alleyway.jpg)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg) | [![Sparks](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-welding.jpg)](https://www.flickr.com/photos/gheckels/17074700519)
 
 ## General
