@@ -40,9 +40,8 @@ It also may be relevant to note that this library includes wallpapers intended f
 # Attribution
 This is mostly for my own use, I like to be able to link back to the source for a Wallpaper, click on the title of an image, to be taken to the original source location. 
 
-## Artwork
-  •  |  •  |  • 
- :-: | :-: | :-:
+  •  | Artwork |  • 
+ :-: |   :-:   | :-:
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-barque-of-dante.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-bridal-procession-on-the-hardangerfjord.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-christianas-world.jpg)](https://www.moma.org/collection/works/78455)
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-echo-and-narcassias.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-entry-of-the-crusaders-in-constantiople.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-evening.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0e/CasparDavidFriedrich_Der_Abend.jpg)
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-highland-loch.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b3/Nasmyth_Alexander_Highland_Loch.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-hylas-and-the-nymphs.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-la-miennas.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg)
@@ -57,9 +56,8 @@ This is mostly for my own use, I like to be able to link back to the source for 
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-the-ladies-waldegrave.jpg)](https://upload.wikimedia.org/wikipedia/commons/f/f7/Sir_Joshua_Reynolds_-_The_Ladies_Waldegrave_-_Google_Art_Project.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-the-oath-of-horaces.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/35/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-the-watzmann.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/bc/Caspar_David_Friedrich_012.jpg)
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-wanderer-above-the-sea-of-fog.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-washington-crossing-the-deleware.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze%2C_MMA-NYC%2C_1851.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-watson-and-the-shark.jpg)](https://upload.wikimedia.org/wikipedia/commons/a/a3/Watsonandtheshark-original.jpg)
 
-## Cyberpunk
- •  |  •  |  • 
-:-: | :-: | :-:
+ •  | Cyberpunk |  • 
+:-: |    :-:    | :-:
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
 [![Ангелы](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-valkyrie.jpg)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | [![Cyberpunk Backalley](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-vee-alleyway.jpg)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg) | [![Sparks](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-welding.jpg)](https://www.flickr.com/photos/gheckels/17074700519)
 
@@ -67,9 +65,8 @@ This is mostly for my own use, I like to be able to link back to the source for 
 
 ## Media
 
-## Nouns
-  •  |  •  | • 
- :-: | :-: | :-:
+  •  | Nouns | • 
+ :-: |  :-:  | :-:
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-audrey-hepburn-black.jpg)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-audrey-hepburn-car.jpg)](https://lwlies.com/wp-content/uploads/2019/10/audrey-hepburn-sabrina.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-audrey-hepburn-classic-color.jpg)](LINK)
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-bernie-sanders-A.jpg)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-bernie-sanders-B.jpg)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-budda.jpg)](LINK)
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-canon-45-102-mm.jpg)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-dolphins.jpg)](LINK) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/NOUNS-falcon-eyes.jpg)](LINK)
