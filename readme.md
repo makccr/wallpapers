@@ -80,7 +80,7 @@ Title | Author
 
 ## Cyberpunk
 • | • | • 
---- | ------ | -------
+:-: | :-: | :-:
 Cyberpunk Building (B&W) **Pixabay** | iRON **Kuldar Leement** | Outrun Synthwave **Unknown**
 [![Cyberpunk Building B&W](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
 Ангелы (Valkyrie) **НИНЭЛЬ** | Cyberpunk Backalley **BoldCat** | Sparks **Graeme Heckels**
