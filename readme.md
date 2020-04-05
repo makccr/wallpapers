@@ -81,9 +81,9 @@ Title | Author
 ## Cyberpunk
 • | • | • 
 :-: | :-: | :-:
-Cyberpunk Building (B&W) **Pixabay** | iRON **Kuldar Leement** | Outrun Synthwave **Unknown**
+Cyberpunk Building (B&W) - **Pixabay** | iRON - **Kuldar Leement** | Outrun Synthwave - **Unknown**
 [![Cyberpunk Building B&W](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![iRON](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![Outrun Synthwave](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
-Ангелы (Valkyrie) **НИНЭЛЬ** | Cyberpunk Backalley **BoldCat** | Sparks **Graeme Heckels**
+Ангелы (Valkyrie) - **НИНЭЛЬ** | Cyberpunk Backalley - **BoldCat** | Sparks - **Graeme Heckels**
 [![Ангелы](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-valkyrie.jpg)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | [![Cyberpunk Backalley](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-vee-alleyway.jpg)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg) | [![Sparks](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-welding.jpg)](https://www.flickr.com/photos/gheckels/17074700519)
 
 ## General
