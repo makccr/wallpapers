@@ -42,9 +42,8 @@ This is mostly for my own use, I like to be able to link back to the source for 
 
 ## Artwork
 ###### Click photo for link to original source (where I found it at least)
-• | • | •
- :-: | :-: | :-:
 The Barque of Dante - **Eugène Delacroix** | Bridal Procession on the Hardangerfjord - **Hans Gude & Adolph Tidemand** | Christina's World - **Andrew Wyeth** 
+ :-: | :-: | :-:
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-barque-of-dante.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/70/Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-bridal-procession-on-the-hardangerfjord.jpg)](https://upload.wikimedia.org/wikipedia/commons/b/b2/Adolph_Tidemand_%26_Hans_Gude_-_Bridal_Procession_on_the_Hardangerfjord_-_Google_Art_Project.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-christianas-world.jpg)](https://www.moma.org/collection/works/78455)
 Echo and Narcissus - **John William Waterhouse** | Entry of the Crusaders in Constantinople - **Eugène Delacroix** | Evening - **Caspar David Friedrich** 
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-echo-and-narcassias.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-entry-of-the-crusaders-in-constantiople.jpg)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_012.jpg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/ARTWORK-evening.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/0e/CasparDavidFriedrich_Der_Abend.jpg)
@@ -73,9 +72,8 @@ Wanderer above the Sea of Fog - **Caspar David Friedrich** | Washington Crossing
 
 ## Cyberpunk
 ###### Click photo for link to original source (where I found it at least)
-• | • | • 
-:-: | :-: | :-:
 Cyberpunk Building (B&W) - **Pixabay** | iRON - **Kuldar Leement** | Outrun Synthwave - **Unknown**
+:-: | :-: | :-:
 [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-building.jpg)](https://images.pexels.com/photos/416326/pexels-photo-416326.jpeg) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-red.jpg)](https://i.redd.it/jfh2j0pw2at21.png) | [![](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-synthwave.jpg)](https://wallpaperaccess.com/full/1115095.jpg)
 Ангелы (Valkyrie) - **НИНЭЛЬ** | Cyberpunk Backalley - **BoldCat** | Sparks - **Graeme Heckels**
 [![Ангелы](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-valkyrie.jpg)](https://i.artfile.ru/1929x1080_1324821_[www.ArtFile.ru].jpg) | [![Cyberpunk Backalley](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-vee-alleyway.jpg)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6eb176aa-5b83-4c2a-823a-e72b7e6130f2/dcbdm6j-9339542c-b2f3-483c-9dd4-4c9578098bda.jpg) | [![Sparks](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb/CYBERPUNK-welding.jpg)](https://www.flickr.com/photos/gheckels/17074700519)
