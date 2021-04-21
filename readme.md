@@ -23,7 +23,9 @@ I'm not organizing these wallpapers in any specific way, as I have  always just 
 # [Justin Maller](http://www.justinmaller.com/) Collection
 If you're a fan of [MKBHD](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ), or any of the other #TeamCrispyLive tech creators; you might be familiar with Maller's artwork and not even know it. It's no surprise that Maller's geometric style of artwork caught on with YouTuber's and [SlickWraps](https://www.slickwraps.com), because these images are unique and beautiful. So it also shouldn't be a surprise that I'm a big fan of these wallpapers as well. I've grabbed quite a few of these wallpapers for my personal collection, and they're all perfect in every way (except they're not 4K).
 
-![Maller Logo](https://raw.githubusercontent.com/makccr/wallpapers/master/maller.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/makccr/wallpapers/master/maller.png">
+</p>
 
 ### Tech Specs
 All of these images use the JPG format, spelled as ``.jpg``, not ``.jpeg`` for consistency. This is just to save on the file size. I find that I don't usually notice the difference between a JPG and a PNG or other higher quality image format (in the context of a wallpaper), and JPG files have significantly smaller file size; so I hope you see what I'm getting at. 
