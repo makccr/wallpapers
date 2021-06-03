@@ -7,6 +7,17 @@ This repository contains all of the Wallpapers that I regularly use on all of my
 
 ![Sample of Wallpapers](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb.jpg)
 
+# Installation & Usage
+The reason these wallpapers are in a Git Repo, rather than a zip file on my website, is so that they can be easily downloaded as part of an installation script, or just quickly on the command line -- to that end, a dimple ``git clone https://github.com/makccr/wallpapers``, will do the trick. But as the years go on, and I'm committing more and more changes to the repo, that will become increasingly unfeasible (and already is a pain in the ass) Every commit in this repo, is not, a few lines of code, but a multi-megabyte image. As such, my recommendation is to instead use: 
+
+```
+git clone --depth 1 https://github.com/makccr/wallpapers
+```
+
+This will download only the most recent branch of wallpapers, giving you access to all the images that can be browsed on the current version of this repo; but will not download the entire history of wallpapers. 
+
+Additionally the structure of this folder might seem odd. After cloning, the folder structure will be something like: ``~/XMediaFolder/wallpapers/wallpapers/Xcollection/``. This seems stupid I know, but it's important, when using this repo with a wallpaper setter like [``feh``](https://www.bristolwatch.com/debian/feh.htm), or [``wal``](https://github.com/dylanaraps/pywal). Here we can run something like ``feh -r`` to recursively search the folder, and pick a random background from any of the collections. However, the standard ``/wallpapers`` folder also contains the ``.git`` directory, leaving ``feh`` trying to set git files as wallpapers. Therefore we have to bury our wallpapers one layer deeper: ``wallpapers/wallpapers/Xcollection``.
+
 ### Tech Specs
 All of these images use the JPG format, spelled as ``.jpg``, not ``.jpeg`` for consistency. This is just to save on the file size. I find that I don't usually notice the difference between a JPG and a PNG or other higher quality image format (in the context of a wallpaper), and JPG files have significantly smaller file size; so I hope you see what I'm getting at. 
 
