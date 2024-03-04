@@ -3,7 +3,7 @@
 </a>
 
 # Wallpapers
-This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. 
+This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. If you are not a viewer of my channel, and just stumbled upon this repository, you will find an image below in which I attempt to provide a descent sample of the type of wallpapers that I store in this repo (it's mostly photos of the natural world, Russia & Romantic art, and some portraits of people I think are dope).
 
 ![Sample of Wallpapers](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb.jpg)
 
