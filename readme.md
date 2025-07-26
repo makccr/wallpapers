@@ -8,29 +8,25 @@ If you’ve stumbled across this repo by chance—Welcome! Inside, you’ll find
 - Abstract visuals and subtle backgrounds that look good without stealing focus  
 - Oceans, boats, and coastlines
 
+## 📚 Attributions
+Sources and credits for the images are listed on the [Wiki page](https://github.com/makccr/wallpapers/wiki), and can be located by clicking on ```📚 Wallpaper Attributions```.
+
 ## 🚀 Installation & Usage
-This repo is structured for convenience—especially for scripts or terminal-based setups.
-
-To clone the latest version of the wallpapers **without the full git history** (which can be large due to image sizes), run:
-
+This repo is structured for convenience—especially for scripts or terminal-based setups. To clone the latest version of the wallpapers **without the full git history**, run:
 ```bash
 git clone --depth 1 https://github.com/makccr/wallpapers
 ```
-⚠️ Each commit includes full-resolution image files—over time this makes the full history impractically large. Use ```--depth 1``` unless you have a reason not to.
+⚠️ Each commit includes full-resolution image files. Git actually handles this surprisingly well, as the full size of the repository (as of July 2025) is just a bit over 1gb. However I would still reccommend using ```--depth 1``` unless you have a reason not to. This flag simply tells git to only pull the most recent commit, as opposed to the entire history of the repository. 
 
 ### 📁 Folder Structure
-After cloning, the structure will look like: ```📁 ~/XMediaFolder/wallpapers/wallpapers/Xcollection/```
-
-Yes, there’s a duplicated ```wallpapers/``` folder. This is intentional. Tools like feh or pywal rely on recursive file discovery. Keeping image files one level deeper avoids issues with .git/ directories being mistaken for images.
+After cloning, the structure will look like: ```📁 ~/XMediaFolder/wallpapers/wallpapers/Xcollection/``` Yes, there’s a duplicated ```wallpapers/``` folder. This is intentional. Tools like [feh](https://wiki.archlinux.org/title/Feh), [nitrogen](https://wiki.archlinux.org/title/Nitrogen) or [pywal](https://github.com/dylanaraps/pywal) rely on recursive file discovery. Keeping image files one level deeper avoids issues with '''.git/''' files & directories being mistaken for images.
 
 **Example usage with feh:**
-
 ```
 feh -r ~/photos/wallpapers/wallpapers/people --bg-scale
 ```
 
 ## Categories
-
 ### 🎨 [Abstract](https://github.com/makccr/wallpapers/tree/master/wallpapers/abstract)
 A curated collection of tech-inspired and nature-driven abstract wallpapers—designed to look dope without demanding attention. These backgrounds blend form and function, keeping your desktop clean, focused, and ready for work. No distractions. Just vibes.
 ### 🐾 [Animals](https://github.com/makccr/wallpapers/tree/master/wallpapers/animals)
@@ -57,10 +53,3 @@ A wild ride of visuals inspired by psychedelic art—think vivid colors, swirlin
 In case the seas wasn't for you: explore the cosmos with wallpapers featuring stars, planets, galaxies, and the vast mysteries of the universe. Perfect for those inspired by the infinite and the unknown.
 ### 💻 [Windows & MacOS](https://github.com/makccr/wallpapers/tree/master/wallpapers/win-mac)
 The classic default wallpapers from Windows and MacOS—those iconic images we all grew up with. Don't be a linux snob. Windows and MacOS suck, but they have managed to source some talented artists over the years of development. 
-
-<br><br>
-
-## 📚 Attributions
-Sources and credits for the images are listed on the [Wiki page]([https://github.com/makccr/wallpapers/wiki](https://github.com/makccr/wallpapers/wiki/%F0%9F%93%9A-Wallpaper-Attribution)).
-
-🛠️ Still, very much a work in progress—tracking down original sources for random images is more time-consuming than expected.
