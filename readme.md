@@ -1,24 +1,35 @@
-<a href="https://makc.co">
-    <img src="https://makccr.github.io/images/github-header.svg" alt="MAKC lgoo" title="MAKC" align="right" height="50" />
-</a>
+# 🖼️ Wallpapers
+This repository contains the wallpapers I use across all my devices—desktop, laptop, and phone. A few were designed by me and originally released on my [personal website](https://makc.co/downloads), but most were discovered (or commandeered) from far more talented artists and photographers online. Many of them also appear in videos on my [YouTube channel](https://www.youtube.com/@makc)—so if you’re here from there, thanks for watching!
 
-# Wallpapers
-This repository contains all of the Wallpapers that I regularly use on all of my systems (and phones). These wallpapers are usually actively in use in videos from my [YouTube Channel](https://www.youtube.com/user/mackenziegcriswell), so if you're visiting this repo from there, thanks for watching, and I hope you can find what you're looking for. If you are not a viewer of my channel, and just stumbled upon this repository, you will find an image below in which I attempt to provide a descent sample of the type of wallpapers that I store in this repo (it's mostly photos of the natural world, Russia & Romantic art, and some portraits of people I think are dope).
+If you’ve stumbled across this repo by chance—Welcome! Inside, you’ll find a curated collection of wallpapers mostly featuring:
 
-![Sample of Wallpapers](https://raw.githubusercontent.com/makccr/wallpapers/master/thumb.jpg)
+- Nature & landscapes  
+- Romantic, Russian, and Religious art (plus a few other types that break the alliteration)  
+- Abstract visuals and subtle backgrounds that look good without stealing focus  
+- Oceans, boats, and coastlines
 
-## Installation & Usage
-The reason these wallpapers are in a Git Repo, rather than a zip file on my website, is so that they can be easily downloaded as part of an installation script, or quickly on the command line -- to that end, a simple ``git clone https://github.com/makccr/wallpapers``, will do the trick. But as the years go on, and I'm committing more changes to the repo, that will become increasingly unfeasible. Every commit in this repo, is not, a few lines of code, but a multi-megabyte image. As such, my recommendation is to instead use: 
+## 🚀 Installation & Usage
+This repo is structured for convenience—especially for scripts or terminal-based setups.
 
-```
+To clone the latest version of the wallpapers **without the full git history** (which can be large due to image sizes), run:
+
+```bash
 git clone --depth 1 https://github.com/makccr/wallpapers
 ```
+⚠️ Each commit includes full-resolution image files—over time this makes the full history impractically large. Use ```--depth 1``` unless you have a reason not to.
 
-This will download only the most recent branch of wallpapers, giving you access to all the images that can be browsed on the current version of this repo; but will not download the entire history of wallpapers. 
+### 📁 Folder Structure
+After cloning, the structure will look like: ```📁 ~/XMediaFolder/wallpapers/wallpapers/Xcollection/```
 
-Additionally the structure of this folder might seem odd. After cloning, the folder structure will be something like: ``~/XMediaFolder/wallpapers/wallpapers/Xcollection/``. This seems stupid, I know, but it's important when using this repo with a wallpaper setter like [``feh``](https://www.bristolwatch.com/debian/feh.htm), or [``wal``](https://github.com/dylanaraps/pywal). Here we can run something like ``feh -r`` to recursively search the folder, and pick a random background from any of the collections. However, the standard ``/wallpapers`` folder also contains the ``.git`` directory, leaving ``feh`` trying to set git files as wallpapers. Therefore we have to bury our wallpapers one layer deeper: ``wallpapers/wallpapers/Xcollection``.
+Yes, there’s a duplicated ```wallpapers/``` folder. This is intentional. Tools like feh or pywal rely on recursive file discovery. Keeping image files one level deeper avoids issues with .git/ directories being mistaken for images.
 
-## Attributions
-You can also view the [wiki page](https://github.com/makccr/wallpapers/wiki/Attributions) for links to the original artworks (at least where I found them), and attribution information. 
+**Example usage with feh:**
 
-**Note:** The above mentioned is still very much in the; work in progress stage. As it turns out, it's much harder (more time consuming) to track down the source for random images than one might think.
+```
+feh -r ~/photos/wallpapers/wallpapers/people --bg-scale
+```
+
+## 📚 Attributions
+Sources and credits for the images are listed on the [Wiki page](https://github.com/makccr/wallpapers/wiki).
+
+🛠️ Still, very much a work in progress—tracking down original sources for random images is more time-consuming than expected.
