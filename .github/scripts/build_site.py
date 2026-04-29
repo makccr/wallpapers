@@ -11,6 +11,7 @@ WALLPAPERS_DIR = REPO_ROOT / "wallpapers"
 SITE_DIR = REPO_ROOT / "_site"
 THUMB_SIZE = "256x256"
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
+GITHUB_RAW = "https://raw.githubusercontent.com/2u841r/wallpapers/master/wallpapers"
 
 SITE_CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -184,10 +185,10 @@ def html_page(title: str, breadcrumb_html: str, body_html: str) -> str:
 def folder_page(folder_name: str, images: list[Path], folder_path_in_site: str) -> str:
     thumbs_html = ""
     for img in sorted(images):
-        rel_full = f"../../wallpapers/{folder_name}/{img.name}"
+        raw_url = f"{GITHUB_RAW}/{folder_name}/{img.name}"
         rel_thumb = f"thumbs/{img.stem}.jpg"
         thumbs_html += f"""
-<div class="thumb-wrap" data-full="{rel_full}" data-name="{img.name}">
+<div class="thumb-wrap" data-full="{raw_url}" data-name="{img.name}">
   <img src="{rel_thumb}" alt="{img.stem}" loading="lazy">
   <div class="label">{img.name}</div>
 </div>"""
@@ -215,11 +216,6 @@ def build():
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR)
     SITE_DIR.mkdir()
-
-    # Copy originals into _site/wallpapers/ so relative links work
-    dest_wp = SITE_DIR / "wallpapers"
-    print("Copying wallpapers...")
-    shutil.copytree(WALLPAPERS_DIR, dest_wp)
 
     folders_info = []
 
