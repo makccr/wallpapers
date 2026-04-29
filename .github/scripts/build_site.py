@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """Build thumbnail gallery site for GitHub Pages."""
 
-import os
 import shutil
-import subprocess
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+
+from PIL import Image
 
 REPO_ROOT = Path(__file__).parent.parent.parent
 WALLPAPERS_DIR = REPO_ROOT / "wallpapers"
 SITE_DIR = REPO_ROOT / "_site"
-THUMB_SIZE = "256x256"
+CACHE_DIR = REPO_ROOT / ".thumb-cache"
+THUMB_PX = 256
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
 GITHUB_RAW = "https://raw.githubusercontent.com/2u841r/wallpapers/master/wallpapers"
 
@@ -142,14 +144,27 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.classList
 
 
 def make_thumb(src: Path, dest: Path):
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    subprocess.run([
-        "convert", str(src),
-        "-thumbnail", f"{THUMB_SIZE}^",
-        "-gravity", "center",
-        "-extent", THUMB_SIZE,
-        str(dest),
-    ], check=True, capture_output=True)
+    """Generate 256x256 centre-cropped thumbnail using Pillow."""
+    cache_path = CACHE_DIR / src.relative_to(WALLPAPERS_DIR).with_suffix(".jpg")
+    if not cache_path.exists():
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        with Image.open(src) as img:
+            img = img.convert("RGB")
+            img.thumbnail((THUMB_PX * 2, THUMB_PX * 2), Image.LANCZOS)
+            w, h = img.size
+            left = (w - THUMB_PX) // 2
+            top = (h - THUMB_PX) // 2
+            img = img.crop((left, top, left + THUMB_PX, top + THUMB_PX))
+            img.save(cache_path, "JPEG", quality=85, optimize=True)
+    shutil.copy2(cache_path, dest)
+
+
+def _thumb_task(src: Path, dest: Path) -> tuple[str, str | None]:
+    try:
+        make_thumb(src, dest)
+        return (src.name, None)
+    except Exception as e:
+        return (src.name, str(e)[:100])
 
 
 def html_page(title: str, breadcrumb_html: str, body_html: str) -> str:
@@ -182,7 +197,7 @@ def html_page(title: str, breadcrumb_html: str, body_html: str) -> str:
 """
 
 
-def folder_page(folder_name: str, images: list[Path], folder_path_in_site: str) -> str:
+def folder_page(folder_name: str, images: list[Path]) -> str:
     thumbs_html = ""
     for img in sorted(images):
         raw_url = f"{GITHUB_RAW}/{folder_name}/{img.name}"
@@ -192,7 +207,6 @@ def folder_page(folder_name: str, images: list[Path], folder_path_in_site: str) 
   <img src="{rel_thumb}" alt="{img.stem}" loading="lazy">
   <div class="label">{img.name}</div>
 </div>"""
-
     breadcrumb = '<a href="../../index.html">Home</a> / <span>' + folder_name + '</span>'
     body = f'<div class="grid">{thumbs_html}\n</div>'
     return html_page(folder_name, breadcrumb, body)
@@ -213,11 +227,13 @@ def index_page(folders: list[tuple[str, int]]) -> str:
 
 
 def build():
+    CACHE_DIR.mkdir(exist_ok=True)
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR)
     SITE_DIR.mkdir()
 
     folders_info = []
+    tasks = []
 
     for folder in sorted(WALLPAPERS_DIR.iterdir()):
         if not folder.is_dir():
@@ -226,23 +242,36 @@ def build():
         if not images:
             continue
 
-        folder_site = SITE_DIR / "folders" / folder.name
-        thumb_dir = folder_site / "thumbs"
+        thumb_dir = SITE_DIR / "folders" / folder.name / "thumbs"
         thumb_dir.mkdir(parents=True)
 
-        print(f"  {folder.name}: {len(images)} images")
         for img in images:
-            thumb_dest = thumb_dir / (img.stem + ".jpg")
-            try:
-                make_thumb(img, thumb_dest)
-            except subprocess.CalledProcessError as e:
-                print(f"    WARN: thumb failed for {img.name}: {e.stderr.decode()[:80]}")
+            tasks.append((img, thumb_dir / (img.stem + ".jpg"), folder.name, images))
 
-        page_html = folder_page(folder.name, images, f"folders/{folder.name}")
-        (folder_site / "index.html").write_text(page_html)
-        folders_info.append((folder.name, len(images)))
+        folders_info.append((folder.name, images))
 
-    (SITE_DIR / "index.html").write_text(index_page(folders_info))
+    # Generate all thumbnails in parallel
+    print(f"Generating {sum(len(imgs) for _, _, _, imgs in tasks)} thumbnails...")
+    with ThreadPoolExecutor() as pool:
+        futures = {pool.submit(_thumb_task, src, dest): src for src, dest, _, _ in tasks}
+        done = 0
+        for fut in as_completed(futures):
+            name, err = fut.result()
+            done += 1
+            if err:
+                print(f"  WARN {name}: {err}")
+        print(f"  {done} done")
+
+    # Write HTML pages
+    seen = {}
+    for _, _, folder_name, images in tasks:
+        if folder_name not in seen:
+            seen[folder_name] = images
+    for folder_name, images in seen.items():
+        page_html = folder_page(folder_name, images)
+        (SITE_DIR / "folders" / folder_name / "index.html").write_text(page_html)
+
+    (SITE_DIR / "index.html").write_text(index_page([(n, len(imgs)) for n, imgs in seen.items()]))
     print(f"Site built → {SITE_DIR}")
 
 

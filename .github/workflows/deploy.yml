@@ -20,8 +20,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install ImageMagick
-        run: sudo apt-get install -y imagemagick
+      - name: Restore thumbnail cache
+        uses: actions/cache@v4
+        with:
+          path: .thumb-cache
+          key: thumbs-${{ hashFiles('wallpapers/**') }}
+          restore-keys: thumbs-
+
+      - name: Install Pillow
+        run: pip install Pillow --quiet
 
       - name: Generate thumbnails & site
         run: python3 .github/scripts/build_site.py
