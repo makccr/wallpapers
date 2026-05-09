@@ -12,18 +12,18 @@ If you’ve stumbled across this repo by chance—Welcome! Inside, you’ll find
 - Abstract visuals and subtle backgrounds that look good without stealing focus  
 - Oceans, boats, and coastlines
 
-## 📚 Attributions
+## Attributions
 Sources and credits for the images are listed on the [Wiki page](https://github.com/makccr/wallpapers/wiki), and can be located by clicking on ```📚 Wallpaper Attributions```.
 
-## 🚀 Installation & Usage
+## Installation & Usage
 This repo is structured for convenience—especially for scripts or terminal-based setups. To clone the latest version of the wallpapers **without the full git history**, run:
 ```bash
 git clone --depth 1 https://github.com/makccr/wallpapers
 ```
-⚠️ Each commit includes full-resolution image files. Git actually handles this surprisingly well, as the full size of the repository (as of July 2025) is just a bit over 1gb. However I would still reccommend using ```--depth 1``` unless you have a reason not to. This flag simply tells git to only pull the most recent commit, as opposed to the entire history of the repository. 
+**Note**: Each commit includes full-resolution image files. Git actually handles this surprisingly well, as the full size of the repository (as of July 2025) is just a bit over 1gb. However I would still reccommend using ```--depth 1``` unless you have a reason not to. This flag simply tells git to only pull the most recent commit, as opposed to the entire history of the repository. 
 
-### 📁 Folder Structure
-After cloning, the structure will look like: ```📁 ~/XMediaFolder/wallpapers/wallpapers/Xcollection/``` Yes, there’s a duplicated ```📁 /wallpapers/``` folder. This is intentional. Tools like [feh](https://wiki.archlinux.org/title/Feh), [nitrogen](https://wiki.archlinux.org/title/Nitrogen) or [pywal](https://github.com/dylanaraps/pywal) rely on recursive file discovery. Keeping image files one level deeper avoids issues with ```📁 .git/``` files & directories being mistaken for images.
+### Folder Structure
+After cloning, the structure will look like: ```~/XMediaFolder/wallpapers/wallpapers/Xcollection/``` Yes, there’s a duplicated ```/wallpapers/``` folder. This is intentional. Tools like [feh](https://wiki.archlinux.org/title/Feh), [nitrogen](https://wiki.archlinux.org/title/Nitrogen) or [pywal](https://github.com/dylanaraps/pywal) rely on recursive file discovery. Keeping image files one level deeper avoids issues with ```.git/``` files & directories being mistaken for images.
 
 **Example usage with feh:**
 ```
