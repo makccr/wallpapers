@@ -1,8 +1,8 @@
-<a href="https://makc.co">
+<a href="https://wallpapers.makc.co">
     <img src="https://makc.co/images/github-header.svg" alt="MAKC lgoo" title="MAKC" align="right" height="50" />
 </a>
 
-# Wallpapers
+# [Wallpapers](https://wallpapers.makc.co)
 This repository contains the wallpapers I use across all my devices—desktop, laptop, and phone. A few were designed by me and originally released on my [personal website](https://makc.co/downloads), but most were discovered (or commandeered) from far more talented artists and photographers online. Many of them also appear in videos on my [YouTube channel](https://www.youtube.com/@makc)—so if you’re here from there, thanks for watching!
 
 If you’ve stumbled across this repo by chance—Welcome! Inside, you’ll find a curated collection of wallpapers mostly featuring:
