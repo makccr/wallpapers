@@ -1,3 +1,4 @@
+```yaml
 name: Build & Deploy Gallery
 
 on:
@@ -7,18 +8,18 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: netlify-deploy
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Restore thumbnail cache
         uses: actions/cache@v4
@@ -33,18 +34,13 @@ jobs:
       - name: Generate thumbnails & site
         run: python3 .github/scripts/build_site.py
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to Netlify
+        uses: nwtgck/actions-netlify@v3
         with:
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deploy
-        uses: actions/deploy-pages@v4
+          publish-dir: './_site'
+          production-deploy: true
+          deploy-message: "Deploy wallpaper gallery"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+```
