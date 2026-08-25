@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build thumbnail gallery site for GitHub Pages."""
+"""Build thumbnail gallery site."""
 
 import shutil
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -13,7 +13,7 @@ SITE_DIR = REPO_ROOT / "_site"
 CACHE_DIR = REPO_ROOT / ".thumb-cache"
 THUMB_PX = 256
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
-GITHUB_RAW = "https://raw.githubusercontent.com/2u841r/wallpapers/master/wallpapers"
+GITHUB_RAW = "https://raw.githubusercontent.com/makccr/wallpapers/master/wallpapers"
 
 SITE_CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -251,7 +251,7 @@ def build():
         folders_info.append((folder.name, images))
 
     # Generate all thumbnails in parallel
-    print(f"Generating {sum(len(imgs) for _, _, _, imgs in tasks)} thumbnails...")
+    print(f"Generating {len(tasks)} thumbnails...")
     with ThreadPoolExecutor() as pool:
         futures = {pool.submit(_thumb_task, src, dest): src for src, dest, _, _ in tasks}
         done = 0
