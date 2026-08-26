@@ -1,0 +1,3 @@
+[build]
+  command = "pip install -r requirements.txt && python3 .github/scripts/build_site.py"
+  publish = "_site"
