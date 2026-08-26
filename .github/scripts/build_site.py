@@ -106,7 +106,7 @@ main { padding: 2rem; }
     gap: 1rem;
 }
 #lb.open { display: flex; }
-#lb img { max-width: 90vw; max-height: 85vh; border-radius: 4px; }
+#lb img { max-width: 90vw; max-height: 50vh; border-radius: 4px; }
 #lb-close {
     position: absolute;
     top: 1rem; right: 1.5rem;
