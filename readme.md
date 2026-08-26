@@ -14,6 +14,7 @@ If you’ve stumbled across this repo by chance—Welcome! Inside, you’ll find
 - Some general nature goodness
 
 ## Browsing
+Casually browsing the repo via GitHub or Codeberg is a pretty horrible experience. Luckily [Zubair Ibn Zamir](https://github.com/2u841r) kindly provided a [pull request](https://github.com/makccr/wallpapers/pull/4) to fix this issue. All wallpapers can be easily browsed and downloaded now at: [wallpapers.makc.co](https://wallpapers.makc.co)
 
 ## Installation & Usage
 This repo is structured for convenience—especially for scripts or terminal-based setups. To clone the latest version of the wallpapers **without the full git history**, run:
