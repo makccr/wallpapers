@@ -61,7 +61,7 @@ main { padding: 2rem; }
 /* image grid */
 .grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
     gap: 12px;
 }
 .thumb-wrap {
@@ -69,7 +69,7 @@ main { padding: 2rem; }
     overflow: hidden;
     border-radius: 6px;
     background: #161b22;
-    aspect-ratio: 1;
+    aspect-ratio: 16 / 9;
     cursor: pointer;
 }
 .thumb-wrap img {
@@ -106,7 +106,7 @@ main { padding: 2rem; }
     gap: 1rem;
 }
 #lb.open { display: flex; }
-#lb img { max-width: 90vw; max-height: 50vh; border-radius: 4px; }
+#lb img { max-width: 90vw; max-height: 85vh; border-radius: 4px; }
 #lb-close {
     position: absolute;
     top: 1rem; right: 1.5rem;
@@ -142,20 +142,37 @@ lb.addEventListener('click', e => { if (e.target === lb) lb.classList.remove('op
 document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.classList.remove('open'); });
 """
 
+THUMB_W = 320
+THUMB_H = 180
 
 def make_thumb(src: Path, dest: Path):
-    """Generate 256x256 centre-cropped thumbnail using Pillow."""
+    """Generate 320x180 centre-cropped thumbnail using Pillow."""
     cache_path = CACHE_DIR / src.relative_to(WALLPAPERS_DIR).with_suffix(".jpg")
     if not cache_path.exists():
         cache_path.parent.mkdir(parents=True, exist_ok=True)
         with Image.open(src) as img:
             img = img.convert("RGB")
-            img.thumbnail((THUMB_PX * 2, THUMB_PX * 2), Image.LANCZOS)
+            
+            target_ratio > target_ratio: 
             w, h = img.size
-            left = (w - THUMB_PX) // 2
-            top = (h - THUMB_PX) // 2
-            img = img.crop((left, top, left + THUMB_PX, top + THUMB_PX))
+            img_ratio = w /h 
+
+            if img_ratio > target_ratio: 
+                new_h = THUMB_H * 2
+                new_w = int(new_h * img_ratio)
+            else:
+                new_w = THUMB_W * 2
+                new_h = int(new_w /img_ratio)
+
+            img = img.resize((new_w, new_h), Image.LANCZOS)
+
+            left = (new_w - THUMB_W * 2) // 2
+            top = (new_h - THUMB_H * 2) // 2
+            img = img.crop((left, top, left + THUMB_W * 2, top + THUMB_H *2))
+
+            img = img.resize ((THUMB_W, THUMB_H), Image.LANCZOS)
             img.save(cache_path, "JPEG", quality=85, optimize=True)
+
     shutil.copy2(cache_path, dest)
 
 
