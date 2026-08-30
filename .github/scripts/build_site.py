@@ -153,7 +153,7 @@ def make_thumb(src: Path, dest: Path):
         with Image.open(src) as img:
             img = img.convert("RGB")
             
-            target_ratio > target_ratio: 
+            if_ratio > target_ratio: 
             w, h = img.size
             img_ratio = w /h 
 
