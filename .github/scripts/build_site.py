@@ -146,31 +146,36 @@ THUMB_W = 320
 THUMB_H = 180
 
 def make_thumb(src: Path, dest: Path):
-    """Generate 320x180 centre-cropped thumbnail using Pillow."""
+    """Generate 16:9 centre-cropped thumbnail using Pillow."""
     cache_path = CACHE_DIR / src.relative_to(WALLPAPERS_DIR).with_suffix(".jpg")
     if not cache_path.exists():
         cache_path.parent.mkdir(parents=True, exist_ok=True)
         with Image.open(src) as img:
             img = img.convert("RGB")
-            
-            if_ratio > target_ratio: 
-            w, h = img.size
-            img_ratio = w /h 
 
-            if img_ratio > target_ratio: 
-                new_h = THUMB_H * 2
+            # First scale so the smaller dimension covers the target
+            target_ratio = THUMB_W / THUMB_H
+            w, h = img.size
+            img_ratio = w / h
+
+            if img_ratio > target_ratio:
+                # Image is wider than 16:9 → fit to height, crop sides
+                new_h = THUMB_H * 2          # work at 2× for better quality
                 new_w = int(new_h * img_ratio)
             else:
+                # Image is taller / narrower → fit to width, crop top/bottom
                 new_w = THUMB_W * 2
-                new_h = int(new_w /img_ratio)
+                new_h = int(new_w / img_ratio)
 
             img = img.resize((new_w, new_h), Image.LANCZOS)
 
+            # Centre crop to exact 16:9
             left = (new_w - THUMB_W * 2) // 2
-            top = (new_h - THUMB_H * 2) // 2
-            img = img.crop((left, top, left + THUMB_W * 2, top + THUMB_H *2))
+            top  = (new_h - THUMB_H * 2) // 2
+            img = img.crop((left, top, left + THUMB_W * 2, top + THUMB_H * 2))
 
-            img = img.resize ((THUMB_W, THUMB_H), Image.LANCZOS)
+            # Final resize to the desired thumbnail size
+            img = img.resize((THUMB_W, THUMB_H), Image.LANCZOS)
             img.save(cache_path, "JPEG", quality=85, optimize=True)
 
     shutil.copy2(cache_path, dest)
