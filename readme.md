@@ -30,7 +30,7 @@ After cloning, the structure will look like: ```~/XMediaFolder/wallpapers/wallpa
 
 **Example usage with feh:**
 ```bash
-awww img ~/Pictures/wallpapers/wallpapers/abstract/neon-dream.jpg
+feh ~/Pictures/wallpapers/wallpapers/abstract/neon-dream.jpg
 ```
 
 #### Setting a Random Wallpaper in a Directory
