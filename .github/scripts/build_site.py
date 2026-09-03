@@ -123,23 +123,54 @@ main { padding: 2rem; }
     text-decoration: none;
 }
 #lb-dl:hover { text-decoration: underline; }
+#lb-prev, #lb-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    cursor: pointer;
+    color: #ccc;
+    background: none;
+    border: none;
+    line-height: 1;
+    padding: 0.5rem 1rem;
+}
+#lb-prev:hover, #lb-next:hover { color: #58a6ff; }
+#lb-prev { left: 0.5rem; }
+#lb-next { right: 0.5rem; }
 """
 
 LIGHTBOX_JS = """
 const lb = document.getElementById('lb');
 const lbImg = document.getElementById('lb-img');
 const lbDl = document.getElementById('lb-dl');
-document.querySelectorAll('.thumb-wrap').forEach(w => {
+const thumbs = Array.from(document.querySelectorAll('.thumb-wrap'));
+let current = 0;
+
+function show(i) {
+    current = (i + thumbs.length) % thumbs.length;
+    const w = thumbs[current];
+    lbImg.src = w.dataset.full;
+    lbDl.href = w.dataset.full;
+    lbDl.download = w.dataset.name;
+}
+
+thumbs.forEach((w, i) => {
     w.addEventListener('click', () => {
-        lbImg.src = w.dataset.full;
-        lbDl.href = w.dataset.full;
-        lbDl.download = w.dataset.name;
+        show(i);
         lb.classList.add('open');
     });
 });
 document.getElementById('lb-close').addEventListener('click', () => lb.classList.remove('open'));
+document.getElementById('lb-prev').addEventListener('click', () => show(current - 1));
+document.getElementById('lb-next').addEventListener('click', () => show(current + 1));
 lb.addEventListener('click', e => { if (e.target === lb) lb.classList.remove('open'); });
-document.addEventListener('keydown', e => { if (e.key === 'Escape') lb.classList.remove('open'); });
+document.addEventListener('keydown', e => {
+    if (!lb.classList.contains('open')) return;
+    if (e.key === 'Escape') lb.classList.remove('open');
+    if (e.key === 'ArrowLeft') show(current - 1);
+    if (e.key === 'ArrowRight') show(current + 1);
+});
 """
 
 THUMB_W = 320
@@ -210,6 +241,8 @@ def html_page(title: str, breadcrumb_html: str, body_html: str) -> str:
 </main>
 <div id="lb">
   <button id="lb-close">&times;</button>
+  <button id="lb-prev">&#8249;</button>
+  <button id="lb-next">&#8250;</button>
   <img id="lb-img" src="" alt="">
   <a id="lb-dl" href="">&#x2193; Download original</a>
 </div>
