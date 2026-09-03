@@ -19,7 +19,7 @@ SITE_CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
     font-family: system-ui, sans-serif;
-    background: #0d1117;
+    background: #000;
     color: #e6edf3;
     min-height: 100vh;
 }
@@ -32,17 +32,17 @@ header {
 }
 header h1 { font-size: 1.5rem; font-weight: 600; }
 header a { color: #e6edf3; text-decoration: none; }
-header a:hover { color: #58a6ff; }
+header a:hover { color: #88c0d0; }
 .breadcrumb { font-size: 0.9rem; color: #8b949e; }
-.breadcrumb span { color: #58a6ff; }
+.breadcrumb span { color: #88c0d0; }
 
 main { padding: 2rem; }
 
 /* folder grid */
 .folders { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
 .folder-card {
-    background: #161b22;
-    border: 1px solid #21262d;
+    background: #0d1117;
+    border: 1px solid #161b22;
     border-radius: 8px;
     padding: 1rem 1.5rem;
     cursor: pointer;
@@ -54,7 +54,7 @@ main { padding: 2rem; }
     gap: 0.6rem;
     font-size: 0.95rem;
 }
-.folder-card:hover { border-color: #58a6ff; background: #1c2128; }
+.folder-card:hover { border-color: #88c0d0; background: #1c2128; }
 .folder-card .icon { font-size: 1.2rem; }
 .folder-card .count { color: #8b949e; font-size: 0.8rem; }
 
@@ -118,7 +118,7 @@ main { padding: 2rem; }
     line-height: 1;
 }
 #lb-dl {
-    color: #58a6ff;
+    color: #88c0d0;
     font-size: 0.85rem;
     text-decoration: none;
 }
@@ -135,7 +135,7 @@ main { padding: 2rem; }
     line-height: 1;
     padding: 0.5rem 1rem;
 }
-#lb-prev:hover, #lb-next:hover { color: #58a6ff; }
+#lb-prev:hover, #lb-next:hover { color: #88c0d0; }
 #lb-prev { left: 0.5rem; }
 #lb-next { right: 0.5rem; }
 """
@@ -276,9 +276,9 @@ def index_page(folders: list[tuple[str, int]]) -> str:
   <span>{name}</span>
   <span class="count">{count} images</span>
 </a>"""
-    breadcrumb = '<span>Wallpapers</span>'
+    breadcrumb = '<span>wallpapers.makc.co</span>'
     body = f'<div class="folders">{cards}\n</div>'
-    return html_page("Wallpapers Gallery", breadcrumb, body)
+    return html_page("MAKC'S Wallpapers", breadcrumb, body)
 
 
 def build():
