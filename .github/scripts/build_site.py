@@ -32,7 +32,7 @@ header {
 }
 header h1 { font-size: 1.5rem; font-weight: 600; }
 header a { color: #e6edf3; text-decoration: none; }
-header a:hover { color: #88c0d0; }
+header a:hover { color: #88c0d0; transition: 0.3s; }
 .breadcrumb { font-size: 0.9rem; color: #8b949e; }
 .breadcrumb span { color: #88c0d0; }
 
@@ -54,7 +54,7 @@ main { padding: 2rem; }
     gap: 0.6rem;
     font-size: 0.95rem;
 }
-.folder-card:hover { border-color: #88c0d0; background: #1c2128; }
+.folder-card:hover { border-color: #88c0d0; background: #1c2128; transition: 0.3s; }
 .folder-card .icon { font-size: 1.2rem; }
 .folder-card .count { color: #8b949e; font-size: 0.8rem; }
 
@@ -79,7 +79,7 @@ main { padding: 2rem; }
     transition: transform 0.2s;
     display: block;
 }
-.thumb-wrap:hover img { transform: scale(1.05); }
+.thumb-wrap:hover img { transform: scale(1.05); transition: 0.3s; }
 .thumb-wrap .label {
     position: absolute;
     bottom: 0; left: 0; right: 0;
@@ -91,7 +91,7 @@ main { padding: 2rem; }
     transition: opacity 0.2s;
     word-break: break-all;
 }
-.thumb-wrap:hover .label { opacity: 1; }
+.thumb-wrap:hover .label { opacity: 1; transition: 0.3s; }
 
 /* lightbox */
 #lb {
@@ -122,7 +122,7 @@ main { padding: 2rem; }
     font-size: 0.85rem;
     text-decoration: none;
 }
-#lb-dl:hover { text-decoration: underline; }
+#lb-dl:hover { text-decoration: underline; transition: 0.3s; }
 #lb-prev, #lb-next {
     position: absolute;
     top: 50%;
@@ -135,7 +135,7 @@ main { padding: 2rem; }
     line-height: 1;
     padding: 0.5rem 1rem;
 }
-#lb-prev:hover, #lb-next:hover { color: #88c0d0; }
+#lb-prev:hover, #lb-next:hover { color: #88c0d0; transition: 0.3s; }
 #lb-prev { left: 0.5rem; }
 #lb-next { right: 0.5rem; }
 """
